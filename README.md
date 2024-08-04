@@ -40,11 +40,3 @@ The `RXBUF` module receives data sent from the other BASYS3 board. It operates t
 ## Conclusion
 
 This project successfully implements a UART communication protocol between two BASYS3 boards using the `UART_Device` module and its submodules. The system handles button debouncing, data conversion for seven-segment displays, data transmission, and data reception efficiently.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or feedback, please contact [your_email@example.com].
